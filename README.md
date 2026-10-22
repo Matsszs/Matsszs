@@ -77,10 +77,10 @@ O projeto envolve a elaboração do Diagrama Entidade-Relacionamento (DER), a id
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Matsszs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Matsszs&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=0D1B2A&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=1F6FEB&ring_color=58A6FF)
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matsszs/Matsszs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matsszs/Matsszs/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Matsszs/Matsszs/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matsszs/Matsszs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matsszs/Matsszs/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/Matsszs/Matsszs/output/github-contribution-grid-snake.svg">
 </picture>
