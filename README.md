@@ -78,3 +78,9 @@ O projeto envolve a elaboração do Diagrama Entidade-Relacionamento (DER), a id
 ### 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Matsszs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matsszs/Matsszs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matsszs/Matsszs/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Matsszs/Matsszs/output/github-contribution-grid-snake.svg">
+</picture>
