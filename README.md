@@ -74,6 +74,19 @@ O projeto envolve a elaboração do Diagrama Entidade-Relacionamento (DER), a id
 </p>
 
 ---
+### 🐍 Minhas contribuições
 
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Matsszs/Matsszs/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Matsszs/Matsszs/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animação da cobrinha percorrendo minhas contribuições no GitHub"
+    src="https://raw.githubusercontent.com/Matsszs/Matsszs/output/github-contribution-grid-snake.svg"
+  />
 </picture>
