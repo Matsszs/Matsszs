@@ -36,9 +36,16 @@ Aqui no GitHub, compartilho meus projetos, aprendizados e minha evolução na á
 
 #### [ERP Rota dos Temperos](https://github.com/Matsszs/ERP-Rota-dos-Temperos)
 
-Projeto acadêmico desenvolvido em equipe com foco na modelagem de banco de dados para um sistema ERP.
+Projeto acadêmico desenvolvido em equipe na disciplina de Modelagem de Banco de Dados, com o objetivo de organizar as informações de vendas, compras, estoque e financeiro de um pequeno negócio familiar de temperos.
 
-O projeto envolve a elaboração do Diagrama Entidade-Relacionamento (DER), a identificação de entidades e atributos, a definição de chaves primárias e estrangeiras e o estabelecimento de relacionamentos e cardinalidades.
+O projeto passou por duas etapas: a modelagem conceitual, com levantamento de requisitos, regras de negócio e Diagrama Entidade-Relacionamento (DER), e a implementação do banco de dados em MySQL.
+
+- 20 tabelas organizadas em cadastros, vendas e compras, estoque e financeiro
+- Normalização até a 3ª Forma Normal (3FN)
+- Scripts SQL de criação do banco, carga de dados válidos, testes de restrições com dados inválidos e consultas gerenciais e de auditoria
+- Testes executados no MySQL Workbench, com evidências no repositório
+
+**Tecnologias:** MySQL · SQL · MySQL Workbench
 
 🔗 [Acesse o repositório no GitHub](https://github.com/Matsszs/ERP-Rota-dos-Temperos)
 
