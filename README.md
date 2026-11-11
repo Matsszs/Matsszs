@@ -78,6 +78,12 @@ O projeto passou por duas etapas: a modelagem conceitual, com levantamento de re
         height="40"
         src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"
     />
+        <img
+        alt="MySQL"
+        title="MySQL"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+    />
 </p>
 
 ---
